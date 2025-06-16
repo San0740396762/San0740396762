@@ -5,7 +5,7 @@
 
  Projects
 CID (Community Intelligent Doctor) – Offline AI for rural healthcare
-JNT AI AgriGuardian– AI-powered pest/disease prediction in crops
+ SUPERVISING -JNT AI AgriGuardian– AI-powered pest/disease prediction in crops
 ICT TRAINER -INTERNET PROGRAMMING;TRADE PROJECTS AND STRUCTURED PROGRAMMING
 
 Author 
