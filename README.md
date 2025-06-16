@@ -1,16 +1,18 @@
-## Hi there 👋
+ Hi, I'm Andrea Thuo
 
-<!--
-**San0740396762/San0740396762** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+.AI Innovator ;ICT Trainer ; Research Supervisor ; Author  
+;Taveta, Kenya ;E-MAIL- andreajohnthuo@gmail.com
 
-Here are some ideas to get you started:
+ Projects
+CID (Community Intelligent Doctor) – Offline AI for rural healthcare
+JNT AI AgriGuardian– AI-powered pest/disease prediction in crops
+ICT TRAINER -INTERNET PROGRAMMING;TRADE PROJECTS AND STRUCTURED PROGRAMMING
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Author 
+No Retreat, No Surrender* – A book for dreamers, leaders, and overcomers
+
+ My Mission
+I create AI solutions that empower underserved communities in health, agriculture, and education.
+
+ Connect
+[LinkedIn](https://linkedin.com/in/andreajohnthuo) | [Facebook](https://facebook.com/PresenterAndreas) | [Telegram](https://t.me/presenterandreas
