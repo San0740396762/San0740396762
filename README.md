@@ -9,7 +9,7 @@ CID (Community Intelligent Doctor) – Offline AI for rural healthcare
 ICT TRAINER -INTERNET PROGRAMMING;TRADE PROJECTS AND STRUCTURED PROGRAMMING
 
 Author 
-No Retreat, No Surrender* – A book for dreamers, leaders, and overcomers
+No Retreat, No Surrender– A book for dreamers, leaders, and overcomers
 
  My Mission
 I create AI solutions that empower underserved communities in health, agriculture, and education.
