@@ -1,18 +1,35 @@
- Hi, I'm Andrea Thuo
+Hi, I am Andrea Thuo
 
-.AI Innovator ;ICT Trainer ; Research Supervisor ; Author  
-;Taveta, Kenya ;E-MAIL- andreajohnthuo@gmail.com
+Innovator | ICT Trainer | Research Supervisor | Author  
+Location: Taveta, Kenya  
+Email: andreajohnthuo@gmail.com
+Mission  
+I empower underserved communities in health, agriculture, and education through practical technology, hands-on training, and structured mentorship.
 
- Projects
-CID (Community Intelligent Doctor) – Offline AI for rural healthcare
- SUPERVISING -JNT AI AgriGuardian– AI-powered pest/disease prediction in crops
-ICT TRAINER -INTERNET PROGRAMMING;TRADE PROJECTS AND STRUCTURED PROGRAMMING
+Projects
 
-Author 
-No Retreat, No Surrender– A book for dreamers, leaders, and overcomers
+1. CID - Community Intelligent Doctor  
+   An offline mobile-friendly health support tool providing guidance for rural medical needs.
 
- My Mission
-I create AI solutions that empower underserved communities in health, agriculture, and education.
+2. AgriGuardian  
+   A system for farmers to monitor crop conditions and identify early signs of pests and diseases.
 
- Connect
-[LinkedIn](https://linkedin.com/in/andreajohnthuo) | [Facebook](https://facebook.com/PresenterAndreas) | [Telegram](https://t.me/presenterandreas
+Professional Roles
+
+- ICT Trainer  
+  Subjects taught:
+  - Internet Programming  
+  - Trade-based ICT Projects  
+  - Structured Programming
+
+- Research Supervisor  
+  Supporting diploma and undergraduate students in projects that apply digital technology to real-life problems.
+Author  
+No Retreat, No Surrender  
+A book for individuals who aspire to lead, grow, and overcome challenges with determination and resilience.
+Contact  
+For JOBS ,training, mentorship, collaboration, or speaking invitations:
+
+Email: andreajohnthuo@gmail.com
+Closing Note  
+I am committed to building tools and training systems that bring lasting value to underserved communities through technology, education, and purpose-driven work.
