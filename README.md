@@ -5,6 +5,7 @@ Location: Taveta, Kenya
 Email: andreajohnthuo@gmail.com
 WHATSAPP; 0740396762
 I AM READY FOR ANY JOB IN  HTML,CSS,JAVASCRIPT,PHP,MY SQL,ARTIFICIAL INTELLIGENCE, MACHINE LEARNING , WEB ADMINISTRATION AND SECURITY AND KNOWLEDGE BASED SYSTEMS.
+
 Mission  
 I empower underserved communities in health, agriculture, and education through practical technology, hands-on training, and structured mentorship.
 
