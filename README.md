@@ -3,6 +3,7 @@ Hi, I am Andrea Thuo
 Innovator | ICT Trainer | Research Supervisor | Author  
 Location: Taveta, Kenya  
 Email: andreajohnthuo@gmail.com
+WHATSAPP; 0740396762
 Mission  
 I empower underserved communities in health, agriculture, and education through practical technology, hands-on training, and structured mentorship.
 
