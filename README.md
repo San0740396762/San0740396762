@@ -3,7 +3,7 @@ Hi, I am Andrea Thuo
 Innovator | ICT Trainer | Research Supervisor | Author  
 Location: Taveta, Kenya  
 Email: andreajohnthuo@gmail.com
-WHATSAPP; 0740396762
+WHATSAPP; +254740396762
 
 I AM READY FOR ANY JOB IN Project management, HTML,CSS,JAVASCRIPT,PHP,MY SQL,ARTIFICIAL INTELLIGENCE, MACHINE LEARNING , WEB ADMINISTRATION AND SECURITY AND KNOWLEDGE BASED SYSTEMS.
 
