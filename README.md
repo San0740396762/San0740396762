@@ -1,6 +1,6 @@
 Hi, I am Andrea Thuo
 
-WEB DEVELOPER: Innovator: SOFTWARE ENGINEER: ICT Trainer:Research Supervisor:programmer : Author: COMEDIAN: ACTOR: SKATTER:
+Manager;WEB DEVELOPER: Innovator: SOFTWARE ENGINEER: ICT Trainer:Research Supervisor:programmer : Author: COMEDIAN: ACTOR: SKATTER:
 Location: Taveta, Kenya  
 Email: andreajohnthuo@gmail.com
 WHATSAPP; +254740396762
